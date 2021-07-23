@@ -7,7 +7,7 @@
                 <h2>Rachael's Blog Application</h2>
             </div>
             <div class="pull-right">
-                <a class="btn btn-success" href="{{ route('posts.create') }}"> Create New Post</a>
+                <a class="btn btn-success createButton" href="{{ route('posts.create') }}"> Create New Post</a>
             </div>
         </div>
     </div>
@@ -17,7 +17,8 @@
             <p>{{ $message }}</p>
         </div>
     @endif
-
+<div class="row">
+    <div class="col-lg-12 margin-tb">
     <table class="table table-bordered">
         <tr>
             <th>No</th>
@@ -46,6 +47,8 @@
         </tr>
         @endforeach
     </table>
+ </div>
+</div>
 
     {!! $posts->links() !!}
 
