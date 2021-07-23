@@ -55,17 +55,3 @@ The succinctness of your submission
 Your ability to execute the required task
 Since this is a relatively simple exercise, the quality of the submission
 should be high
-💅 Are there any other considerations?
-Again, use this test as an opportunity to express yourself. Here are some of
-the things we use and like - only to keep in mind, of course 😄
-We like AWS and are a cloud-native company
-We like Git
-We always go above and beyond
-We believe in quality code (think tests)
-We like all the new GraphQL things (think Prisma, Hasura etc.)
-We value security, strongly
-🔒 Closing
-Laravel Test 4
-Thank you for taking the time to complete this test. We look forward to your
-submission. If you have any feedback, please feel free to share it with us. As
-we are continuously improving our hiring process.
